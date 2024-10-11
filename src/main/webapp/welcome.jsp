@@ -44,9 +44,7 @@
 		</div>
 	</div>
 	
-	<footer class ="pt-3 mt-4 text-body-secondary border-top">
-		&copy; BookMarket
-	</footer>
+	<%@ include file ="footer.jsp" %>
 </div>
 </body>
 </html>
